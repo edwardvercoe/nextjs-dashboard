@@ -1,5 +1,3 @@
-export const Page = () => {
+export default function InvoicesPage() {
   return <p>Invoices page</p>;
-};
-
-export default Page;
+}
